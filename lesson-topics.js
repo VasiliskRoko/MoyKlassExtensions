@@ -5,6 +5,8 @@
 // @description  (=⌒‿‿⌒=)
 // @author       Егор
 // @match        https://app.moyklass.com/*
+// @updateURL    https://raw.githubusercontent.com/VasiliskRoko/MoyKlassExtensions/refs/heads/main/lesson-topics.js
+// @downloadURL  https://raw.githubusercontent.com/VasiliskRoko/MoyKlassExtensions/refs/heads/main/lesson-topics.js
 // @grant        none
 // ==/UserScript==
 
